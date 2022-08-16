@@ -1,0 +1,61 @@
+.imgtop{
+  display: flex;
+  flex-wrap: wrap;
+  margin : 0 auto;
+}
+
+.icon{
+  width: auto;
+  padding: auto;
+  margin : auto;
+  margin-top:40px;
+}
+
+.cafe{
+  text-align : center;
+}
+
+.menu-icon{
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+img{
+  margin-top:10px;
+}
+  
+.line{
+  text-align : center;
+}
+
+ol{
+  list-style-type:none;
+  margin-top:20px;
+  margin-left: 200px;
+  margin-right:250px;
+  font-size: 20px;
+  float:left;
+}
+
+li{
+  margin-top:10px;
+}
+
+.news{
+  margin-top:20px;
+  margin-left: 200px;
+}
+
+.SNS{
+  margin-top:-70px;
+}
+
+.top{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 100px;
+}
+
+.under{
+  text-align : center;
+}
